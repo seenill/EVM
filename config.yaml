@@ -1,0 +1,10 @@
+mysql:
+  host: ""
+  port: ""
+  user: ""
+  pass: ""
+  dbname: ""
+redis:
+  addr: ""
+  password: ""
+  dB: 0,
